@@ -1,0 +1,5 @@
+timm==0.4.12
+tensorboard
+scipy
+pandas
+pyarrow
