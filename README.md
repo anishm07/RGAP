@@ -286,23 +286,18 @@ Validation uses centre crop with ratio 0.875.
 
 ## Citations
 
-If you use this code in your research, please cite 
-the accompanying paper:
+If you use this code in your research, please cite the accompanying paper:
 
-Anish M. George and Shajimon K. John. "RGAP: 
-Redundancy-Guided Adaptive Pruning for Vision 
-Transformers." Submitted to PeerJ Computer Science, 
+Anish M. George and Shajimon K. John. "RGAP: Redundancy-Guided Adaptive Pruning for Vision Transformers." Submitted to PeerJ Computer Science, 
 2026.
 
 The code is archived on Zenodo:
 DOI: 10.5281/zenodo.22124637
 URL: https://doi.org/10.5281/zenodo.22124637
 
-The ImageNet-100 dataset is derived from ImageNet-1K:
-Russakovsky et al. (2015). ImageNet Large Scale 
-Visual Recognition Challenge. International Journal 
-of Computer Vision, 115(3), 211-252.
-DOI: 10.1007/s11263-015-0816-y
+The ImageNet-100 dataset is derived from ImageNet-1K:Russakovsky et al. (2015). ImageNet Large Scale Visual Recognition Challenge. International Journal 
+of Computer Vision, 115(3), 211-252. DOI: 10.1007/s11263-015-0816-y
+
 ---
 
 ## License
